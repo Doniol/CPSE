@@ -1,5 +1,6 @@
 .global compressed
 .data
+
 compressed:
 	.ascii "Wilhelmus van Nassouwe 
  Ben ick@F5Duytsch@A3Bloedt,@O3D@O3Vaderland ghetrouwe@I3Blijf ick tot inden doet;@K3E@;3Prince van Orangi@O3
@@ -59,4 +60,4 @@ Oorlof m@S4arme @V3apen,
 
 Voor Godt wil ick belijden 
  End sijner groot@73macht,@K3Dat ick tot gheenen tijd@63@L3@<3Conin@P3heb veracht:@J4an dat i@J3Godt den Heere,@M4er hoochst@93Maje@83yt@J4Heb moeten obedieren@G4In der gh@@3chticheyt.
-"
+""

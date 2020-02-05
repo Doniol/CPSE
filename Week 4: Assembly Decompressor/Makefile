@@ -9,10 +9,10 @@
 #############################################################################
 
 # source files in this project (main.cpp is automatically assumed)
-SOURCES :=decoder.asm compressed.asm
+SOURCES := decoder.asm compressed.asm
 
 # header files in this project
-HEADERS := main.cpp
+HEADERS := 
 
 # other places to look for files for this project
 SEARCH  := 
